@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "dvdsim.data.unityweb",
+"asmCodeUrl": "dvdsim.asm.code.unityweb",
+"asmMemoryUrl": "dvdsim.asm.memory.unityweb",
+"asmFrameworkUrl": "dvdsim.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
