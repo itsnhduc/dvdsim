@@ -1,0 +1,22 @@
+{
+  "name": "dvdsim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnhduc/dvdsim.git"
+  },
+  "author": "itsnhduc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnhduc/dvdsim/issues"
+  },
+  "homepage": "https://github.com/itsnhduc/dvdsim#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
